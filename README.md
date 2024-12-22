@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 
+### DATE: 20/12/2024
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -59,9 +59,15 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
+![WhatsApp Image 2024-12-22 at 09 19 16_e376fbd6](https://github.com/user-attachments/assets/ac36fe57-7b86-4024-a263-3a86d93cb4d1)
+![WhatsApp Image 2024-12-22 at 09 19 17_7295ac61](https://github.com/user-attachments/assets/47337dfd-0f32-413d-9356-9d306d61d0ae)
+![WhatsApp Image 2024-12-22 at 09 19 21_cf3f27bc](https://github.com/user-attachments/assets/f49259af-4cf4-4cbb-89d6-43ca42253ddc)
+![WhatsApp Image 2024-12-22 at 09 19 22_ba19d6e0](https://github.com/user-attachments/assets/b5b4566e-d546-48f4-b003-e8e7e920d8d6)
+![WhatsApp Image 2024-12-22 at 09 19 16_e376fbd6](https://github.com/user-attachments/assets/18136669-93ca-402e-ac55-eb83347e96a7)
 
-### Name: 
-### Register Number:
+
+### Name: GUHAN B
+### Register Number:24900790
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
